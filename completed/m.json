@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": "Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "LA VERNE",
+    "color": "grey",
+    "price": 2999,
+    "discount": 2200,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14997940/2021/11/11/627077bb-0cb9-477c-bfd9-1c20b72b6e1c1636584413414-LA-VERNE-Grey-King-Size-Cotton-Terry-Waterproof-Mattress-Pro-1.jpg",
+    "gender": "Unisex"
+  },
+  {
+    "id": 2,
+    "name": "Beige Cotton Water Resistant Elastic Strap Single Size Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "Stylista",
+    "color": "brown",
+    "price": 1399,
+    "discount": 700,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/27019326/2024/1/16/54385bde-e4d5-472f-87cc-e20ded1730d71705408961182StylistaBeigeCottonWaterResistantMattressProtector1.jpg",
+    "gender": "Women"
+  },
+  {
+    "id": 3,
+    "name": "Grey Terry Cotton Waterproof King Bed Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "AVI",
+    "color": "grey",
+    "price": 1999,
+    "discount": 61,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24010076/2023/7/13/cb2c2674-719d-4021-9e56-cd45ac2b56c31689256379483MattressProtector1.jpg",
+    "gender": "Men"
+  },
+  {
+    "id": 4,
+    "name": "Cocoa Blue King Size Double Bed Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "Aura",
+    "color": "brown",
+    "price": 2999,
+    "discount": 72,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17827730/2022/4/9/0c7f6142-d51a-46e8-bb61-80096a21e5821649478416599MattressProtector1.jpg",
+    "gender": "Men"
+  },
+  {
+    "id": 5,
+    "name": "Navy Blue Water Resistant Fitted Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "AJISH",
+    "color": "blue",
+    "price": 3499,
+    "discount": 84,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/27475190/2024/2/8/fdbf50cc-3523-47af-b1d0-444d3994256e1707401620916MattressProtector1.jpg",
+    "gender": "Men"
+  },
+  {
+    "id": 6,
+    "name": "Unisex Maroon Single Size Polycotton Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "AVI",
+    "color": "pink",
+    "price": 1999,
+    "discount": 65,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/19631598/2022/9/27/bf0d131e-1544-47fd-9936-7a742bc0ec041664260299194-AVI-Unisex-Maroon-Single-Size-Polycotton-Waterproof-Mattress-1.jpg",
+    "gender": "Unisex"
+  },
+  {
+    "id": 7,
+    "name": "Maroon Water Resistant Fitted Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "AJISH",
+    "color": "grey",
+    "price": 3499,
+    "discount": 84,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/21574924/2023/1/17/d9da1eed-cd99-4ee3-ba53-366c4f0364711673943403978WaterProofTerryCottonMattressProtector72x78Kingsize1.jpg",
+    "gender": "Women"
+  },
+  {
+    "id": 8,
+    "name": "Grey King Size Double Bed Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "Aura",
+    "color": "maroon",
+    "price": 2999,
+    "discount": 72,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/27475188/2024/2/8/f0cef853-b9b7-4dbf-93ba-5514a4a6033f1707401615691MattressProtector1.jpg",
+    "gender": "Men"
+  },
+  {
+    "id": 9,
+    "name": "Grey Cotton King Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "CURIOUS LIFESTYLE",
+    "color": "grey",
+    "price": 1999,
+    "discount": 50,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17972772/2022/4/21/af4f2b0c-99e3-4e05-af97-c396c4c540a01650537642673MattressProtector1.jpg",
+    "gender": "Women"
+  },
+  {
+    "id": 10,
+    "name": "Brown King Size Cotton Terry Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "LA VERNE",
+    "color": "grey",
+    "price": 2999,
+    "discount": 2200,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/23524366/2023/6/5/f99bc052-4981-4cad-b447-4fd7d6eda7ae1685937692282QuiltedCottonKingBedMattressProtector1.jpg",
+    "gender": "Men"
+  },
+  {
+    "id": 11,
+    "name": "Terry Cotton Waterproof King Fitted Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "LABHAM",
+    "color": "black",
+    "price": 2495,
+    "discount": 60,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14997942/2021/11/11/180a1288-08e2-4ba1-bb83-e1732c2099471636584423428-LA-VERNE-Brown-King-Size-Cotton-Terry-Waterproof-Mattress-Pr-1.jpg",
+    "gender": "Women"
+  },
+  {
+    "id": 12,
+    "name": "Maroon Water Proof Terry Cotton Double King Size Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "CURIOUS LIFESTYLE",
+    "color": "brown",
+    "price": 2599,
+    "discount": 62,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/22712658/2023/4/25/f3e0f378-bb07-4e52-8ad0-3907936239691682420294344-LABHAM-Brown-Terry-Cotton-Waterproof-King-Fitted-Mattress-Pr-5.jpg",
+    "gender": "Unisex"
+  },
+  {
+    "id": 13,
+    "name": "Maroon Terry Cotton Waterproof Double Bed Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "AVI",
+    "color": "grey",
+    "price": 1899,
+    "discount": 60,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/27020648/2024/1/16/e24813b3-b6dc-4061-8152-a44cd53a028f1705409435891bsbhomeGreyTerryWaterResistantMattressProtector1.jpg",
+    "gender": "Women"
+  },
+  {
+    "id": 14,
+    "name": "Navy Blue King Size Double Bed Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "Aura",
+    "color": "brown",
+    "price": 2999,
+    "discount": 72,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/21574922/2023/1/17/5424b4d3-a1ca-4c5e-9f82-d922b40014941673940140472WaterProofTerryCottonMattressProtector72x78Kingsize1.jpg",
+    "gender": "Men"
+  },
+  {
+    "id": 15,
+    "name": "Grey Water Proof Terry Cotton Double King Size Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "CURIOUS LIFESTYLE",
+    "color": "maroon",
+    "price": 2599,
+    "discount": 62,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/24010090/2023/7/13/d81656fa-f186-40ef-82aa-31d1e73121721689258263486MattressProtector1.jpg",
+    "gender": "Women"
+  },
+  {
+    "id": 16,
+    "name": "Grey Quilted Terry Water Resistant Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "bsb home",
+    "color": "blue",
+    "price": 1999,
+    "discount": 50,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/17972774/2022/4/21/fa87fcfa-74b1-4e1e-ba60-e0f82237cfd21650536474721MattressProtector1.jpg",
+    "gender": "Unisex"
+  },
+  {
+    "id": 17,
+    "name": "Maroon Solid King Size Cotton Terry Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "LA VERNE",
+    "color": "maroon",
+    "price": 2999,
+    "discount": 2200,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14997948/2021/11/11/be16e509-88f8-412e-b801-7a2c4d294ee21636584456940-LA-VERNE-Maroon-Solid-King-Size-Cotton-Terry-Waterproof-Matt-1.jpg",
+    "gender": "Men"
+  },
+  {
+    "id": 18,
+    "name": "White Cotton King Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "CURIOUS LIFESTYLE",
+    "color": "white",
+    "price": 1999,
+    "discount": 52,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/21574924/2023/1/17/d9da1eed-cd99-4ee3-ba53-366c4f0364711673943403978WaterProofTerryCottonMattressProtector72x78Kingsize1.jpg",
+    "gender": "Women"
+  },
+  {
+    "id": 19,
+    "name": "Maroon Queen Size Double Bed Waterproof Mattress Protector",
+    "category": "Bedsheets",
+    "brand": "Aura",
+    "color": "grey",
+    "price": 2999,
+    "discount": 75,
+    "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/27020648/2024/1/16/e24813b3-b6dc-4061-8152-a44cd53a028f1705409435891bsbhomeGreyTerryWaterResistantMattressProtector1.jpg",
+    "gender": "Women"
+  }
+]

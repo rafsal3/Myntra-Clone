@@ -1,0 +1,4 @@
+<label for="white" class="flex">
+                            <input type="checkbox" name="color" id="white" value="white">
+                            <div class="colorball white"></div> White<span class="count">(43224)</span>
+                        </label>
